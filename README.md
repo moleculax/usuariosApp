@@ -2,7 +2,7 @@
 
 **UsuariosApp** es una aplicación de **consola** en Java que permite capturar información de usuarios y generar un archivo Excel (`.xlsx`) con los datos ingresados. Ideal para terminales Linux, macOS y Windows 10+.
 
-![usuariosApp](img/pantalla.png)
+
 
 
 ---
