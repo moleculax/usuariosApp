@@ -23,13 +23,13 @@
   - Filas alternas con color (zebra)
   - Autoajuste de columnas
 - Proyecto Maven sencillo, **sin interfaz gráfica**.
-- Compatible con Java 25+.
+- Compatible con Java 25.
 
 ---
 
 ## 🔹 Requisitos
 
-- Java 25 o superior
+- Java 25
 - Maven 3.8+
 - Terminal compatible con secuencias ANSI
 
