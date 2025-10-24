@@ -51,8 +51,7 @@ mvn clean package
 Ejecutala con:
 mvn compile exec:java
 
-o si lo prefiere con:
-java -jar target/usuariosApp-1.0-SNAPSHOT-shaded.jar
+
 
 
 ```
